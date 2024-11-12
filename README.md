@@ -11,6 +11,13 @@ A Simplified version of popular LFR benchmark algorithm
   <p align="right">p = 0.1, mu = 0.8</p>
 </div>
 
+<p float="left"> 
+  <img src="141e948f-d418-4bec-a4b6-2aef76c561a4.png" width="400px" />
+  <p align="left">p = 0.8, mu = 0.1 </p>
+  <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="300px" />
+  <p align="right">p = 0.1, mu = 0.8</p>
+</p>
+
 
 ```bash
 #example
@@ -26,3 +33,11 @@ intra, inter  = density_calculation(G =G , communities = communities)
 - Only depends on 4 variables
 - Returns Graph along with average inter & intra density
 - Includes visulaization of generated graph 
+
+## License
+
+**Simplified_LFR_Benchmark_Graph** is released under the GNU General Public License v3.0. Please see the [LICENSE](LICENSE) file for more information.
+
+## Contributing
+
+We actively welcome your pull requests! Please see [`CONTRIBUTING.md`](docs/CONTRIBUTING.md) and [`CODE_OF_CONDUCT.md`](docs/CODE_OF_CONDUCT.md) for more info.
