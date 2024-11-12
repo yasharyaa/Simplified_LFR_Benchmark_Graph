@@ -13,6 +13,8 @@ A Simplified version of popular LFR benchmark algorithm
   </figure>
 </div>
 
+###Example
+
 ```bash
 #example
 Nodes = 1280                 #SPECIFY NUMBER OF NODES
