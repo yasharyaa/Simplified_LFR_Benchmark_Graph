@@ -6,19 +6,14 @@ A Simplified version of popular LFR benchmark algorithm
 
 <div style="display: flex; justify-content: space-around;">
   <figure style="margin: 10px;">
-    <img src="141e948f-d418-4bec-a4b6-2aef76c561a4.png" width="200" alt="Image 1" />
+    <img src="141e948f-d418-4bec-a4b6-2aef76c561a4.png" width="400" alt="Image 1" />
     <figcaption>p = 0.8, mu = 0.1</figcaption>
   </figure>
   <figure style="margin: 10px;">
-    <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="200" alt="Image 2" />
+    <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="400" alt="Image 2" />
     <figcaption>p = 0.1, mu = 0.8</figcaption>
   </figure>
 </div>
-
-
-<p align="left">
-  p = 0.8, mu = 0.1 </p>
-<p align= right">p = 0.1, mu = 0.8</p>
 
 ```bash
 #example
