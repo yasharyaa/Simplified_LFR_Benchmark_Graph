@@ -13,7 +13,7 @@ A Simplified version of popular LFR benchmark algorithm
   </figure>
 </div>
 
-###Example
+### Example
 
 ```bash
 #example
