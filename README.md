@@ -6,9 +6,14 @@ A Simplified version of popular LFR benchmark algorithm
 
 <p float="left"> 
   <img src="141e948f-d418-4bec-a4b6-2aef76c561a4.png" width="500px" />
+  <figcaption>p = 0.8, mu = 0.1</figcaption>
   <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="500px" />
+  <figcaption>p = 0.1, mu = 0.8</figcaption>
 </p>
-<p align="left">p = 0.8, mu = 0.1 </p>
+# Example of Pictures Side by Side with Captions
+
+<p align="left">
+  p = 0.8, mu = 0.1 </p>
 <p align= right">p = 0.1, mu = 0.8</p>
 
 ```bash
