@@ -5,13 +5,13 @@ A Simplified version of popular LFR benchmark algorithm
 **Lancichinetti–Fortunato–Radicchi benchmark (LFR)** is an algorithm that generates artificial networks with a known community structure, while taking into account the heterogeneity in the distributions of node degrees and community sizes. [Networkx](https://networkx.org/documentation/stable/reference/generated/networkx.generators.community.LFR_benchmark_graph.html), a popular Python package for complex networks analysis provides a function to generate this graph structure, which relies on degree sequence & power law distribution. We removed this dependence by incorprating each community as a respective subgraph, where each graph is conneceted with a probability mu to generate the desired community structures. All possible graph configurations in the range [0, 1] can be generated.
 
 <p float="left"> 
-  <img src="141e948f-d418-4bec-a4b6-2aef76c561a4.png" width="400px" />
-  <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="400px" />
+  <img src="141e948f-d418-4bec-a4b6-2aef76c561a4.png" width="700px" />
+  <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="700px" />
 </p>
 
 <p float="left"> 
   <p align="left">p = 0.8, mu = 0.1 </p>
-  <p align="right">p = 0.1, mu = 0.8</p>
+  <p align= left">p = 0.1, mu = 0.8</p>
 </p>
 
 ```bash
