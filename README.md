@@ -9,7 +9,7 @@ A Simplified version of popular LFR benchmark algorithm
     <img src="141e948f-d418-4bec-a4b6-2aef76c561a4.png" width="500" alt="Image 1" />
   </figure>
   <figure>
-    <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="550" alt="Image 2" />
+    <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="400" alt="Image 2" />
   </figure>
 </div>
 
