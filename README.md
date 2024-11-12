@@ -9,9 +9,9 @@ A Simplified version of popular LFR benchmark algorithm
   <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="500px" />
 </p>
 
-<p float="left"> 
+<p float="center"> 
   <p align="left">p = 0.8, mu = 0.1 </p>
-  <p align= left">p = 0.1, mu = 0.8</p>
+  <p align= right">p = 0.1, mu = 0.8</p>
 </p>
 
 ```bash
