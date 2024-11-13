@@ -28,7 +28,14 @@ intra, inter  = density_calculation(G =G , communities = communities)
 - Faster computation time, computationally inexpensive
 - Only depends on 4 variables
 - Returns Graph along with average inter & intra density
-- Includes visulaization of generated graph 
+- Includes visualization of generated community structure
+
+## Installation
+
+```bash
+cd simplified_lfr_benchmark_graph
+git clone https://github.com/yasharyaa/Simplified_LFR_Benchmark_Graph.git
+```
 
 ## License
 
