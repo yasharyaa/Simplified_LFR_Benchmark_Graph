@@ -6,7 +6,7 @@ A Simplified version of popular LFR benchmark algorithm
 
 <div>
   <figure>
-    <img src="141e948f-d418-4bec-a4b6-2aef76c561a4.png" width="350" alt="Image 1" />
+    <img src="https://i.postimg.cc/YhsSqzGn/Screenshot-2025-04-01-165156.png" width="350" alt="Image 1" />
   </figure>
   <figure>
     <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="350" alt="Image 2" />
